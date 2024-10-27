@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Portfolio</title>
+    <style>
+        body {
+            font-size: 14px;
+            color: black;
+        }
+        .container {
+            margin: 20px;
+            padding: 10px;
+            border: 1px solid black;
+        }
+        h1 {
+            font-size: 24px;
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>My Portfolio</h1>
+        <div>
+            <p>Welcome to my portfolio. My name is John.</p>
+            <p>Projects:</p>
+            <ul>
+                <li>Project 1</li>
+                <li>Project 2</li>
+                <li>Project 3</li>
+            </ul>
+            <p>Contact: email@example.com</p>
+        </div>
+    </div>
+</body>
+</html>
